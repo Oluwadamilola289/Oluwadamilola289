@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Oluwadamilola Osho 👋
 
-<!--
-**Oluwadamilola289/Oluwadamilola289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Data Professional | MSc Data Science
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered solutions, automating workflows, and transforming complex data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- 🤖 AI data preparation & machine learning pipelines
+- 📊 Data analytics & business intelligence
+- ⚡ Automation using Python & SQL
+- 🧠 Machine Learning & Intelligent Systems
+
+---
+
+## Technical Skills
+
+### Languages
+- Python
+- SQL
+- Excel
+
+### Data & Analytics
+- Power BI
+- ETL
+- Data Cleaning
+- Data Validation
+- Dashboard Development
+
+### AI & Machine Learning
+- Machine Learning
+- Prompt Engineering
+- Dataset Preparation
+- AI Automation
+
+---
+
+## Featured Projects
+
+🚀 Retail AI Dataset Preparation *(Coming Soon)*
+
+📊 Brand Intelligence SQL Analytics *(Coming Soon)*
+
+🤖 AI Data Automation *(Coming Soon)*
+
+---
+
+## Education
+
+🎓 MSc Data Science
+
+---
+
+## Let's Connect
+
+- LinkedIn: linkedin.com/in/damilola-e-osho
+- Portfolio: *(Add your Gamma portfolio URL later)*
