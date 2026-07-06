@@ -16,6 +16,5 @@ Featured Projects
 • Retail Product Intelligence AI
 
 Let's Connect
-LinkedIn
-Portfolio
-Email
+[LinkedIn](https://www.linkedin.com/in/damilola-e-osho)
+oluwadamilolaosho3@gmail.com
